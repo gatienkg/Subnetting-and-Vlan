@@ -47,6 +47,7 @@ Department	VLAN	Network Address	Subnet Mask
 Management	10	192.168.10.0/27	255.255.255.224
 Sales	20	192.168.10.32/27	255.255.255.224
 IT Support	30	192.168.10.64/27	255.255.255.224
+
 4. VLAN Configuration
 
 Three VLANs were created to separate the departments.
@@ -74,6 +75,7 @@ Fa0/1–5	10	Management
 Fa0/6–10	20	Sales
 Fa0/11–15	30	IT Support
 Fa0/24	Trunk	Connection to Switch 1
+
 6. Network Security Concepts
 
 The main security concept demonstrated in this project is network segmentation.
