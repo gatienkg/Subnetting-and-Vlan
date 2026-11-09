@@ -101,7 +101,9 @@ Expected results:
 Devices in the same VLAN on different switches should be able to communicate, assuming correct IP addressing and VLAN configuration.
 Devices in different VLANs should not communicate without inter-VLAN routing.
 The trunk link should carry traffic for the configured VLANs.
+
 8. Skills Demonstrated
+   
 VLAN creation and configuration.
 Network segmentation.
 CIDR subnetting.
@@ -112,6 +114,7 @@ Trunk port configuration.
 Network topology design.
 Network connectivity testing.
 Basic network security principles.
+
 9. Project Conclusion
 
 This lab provided practical experience in designing and configuring a segmented office network using Cisco switching technologies.
